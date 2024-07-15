@@ -1,0 +1,17 @@
+.footer-info-container{
+    margin: 50px 0 120px 0;
+    text-align: center;
+    color: var(--gris-claro);
+}
+
+.footer-info-container a{
+    color: var(--azul);
+    font-weight: bold;
+}
+
+@media (min-width: 767px) {
+    .footer-info-container{
+        margin: 50px 0;
+    }
+     
+}

@@ -1,0 +1,72 @@
+.banner-container{
+    padding: 2rem;
+    color: var(--blanco);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.336), rgba(0, 0, 0, 0.8)), url('./player.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+  flex-direction: column;
+}
+
+.banner-info h3{
+    font-family: "RobotoRegular";
+    font-size: 1.1rem;
+}
+
+.banner-info p{
+    font-family: "RobotoLight";
+}
+
+.banner-video-container iframe{
+    height: 200px;
+    width: 100%;
+    border: none;
+    border-radius: 4px;
+
+}
+
+
+@media (min-width: 767px) {
+    .banner-container{
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        height: 600px;
+    }
+
+    .banner-info,
+    .banner-video-container{
+        width: 50%;
+    }
+
+    .banner-info{
+        padding-right:  2rem;
+    }
+
+    .banner-video-container iframe{
+        height: 300px;
+    }
+
+    .banner-info h3{
+        font-size: 2rem;
+    }
+
+    .banner-info p{
+        font-size: 1.1rem;
+        line-height: 1.4;
+    }
+}
+
+
+@media (min-width: 1024px) {
+    .banner-info{
+        width: 40%;
+    }
+
+    .banner-video-container iframe{
+        height: 450px;
+        border-radius: 10px;
+        border: 1px solid var(--gris-claro);
+    }
+}

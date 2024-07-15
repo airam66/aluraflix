@@ -1,0 +1,51 @@
+{
+    "videos":
+
+[
+
+    {
+        "id": 1,
+        "titulo": "Equipo Front End",
+        "categoria": "FRONT END",
+        "imagen": "https://i.ytimg.com/vi/rpvrLaBQwgg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBMnS_qg9XSSzLVSzN0ZrXiC_uVwQ",
+        "url": "https://www.youtube.com/embed/rpvrLaBQwgg?si=LK0iqkY0TeTlNn46"
+    },
+    {
+        "id": 2,
+        "titulo": "React Hooks: ¿qué son y cómo funcionan?",
+        "categoria": "FRONT END",
+        "imagen": "https://i.ytimg.com/vi/9xlea2yDFaY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAEu6P_aN4ZV2gM8Lv0Eeu0-axUEA",
+        "url": "https://www.youtube.com/embed/9xlea2yDFaY?si=7XYQoXIrwm-PN1pJ"
+    },
+    {
+        "id": 3,
+        "titulo": "¿Cómo un desarrollador Front End utiliza el Figma?",
+        "categoria": "FRONT END",
+        "imagen": "https://i.ytimg.com/vi/UuAX5azcvDQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC_vKGH5UkL5eqcAzksd8TzSI1g7Q",
+        "url": "https://www.youtube.com/embed/UuAX5azcvDQ?si=iGZ5KMOQaEoHTor6"
+    },
+    {
+        "id": 4,
+        "titulo": "Spring Framework. ¿Qué es ?",
+        "categoria": "BACK END",
+        "imagen": "https://i.ytimg.com/vi/t-iqt1b2qqk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA_EtTydm8laBkM5GjRE19_FDC5AQ",
+        "url": "https://www.youtube.com/embed/t-iqt1b2qqk?si=APLUFMPe7ZR3s4L_"
+    },
+    {
+        "id": 5,
+        "titulo": "7 Soft Skills más deseadas por las empresas",
+        "categoria": "INNOVACIÓN Y GESTIÓN",
+        "imagen": "https://i.ytimg.com/vi/YhR7Zp8NUzE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA7oglc34m-VG3zCOptUhn94duB_g",
+        "url": "https://www.youtube.com/embed/YhR7Zp8NUzE?si=bmYrmXguUH4nvJj9"
+    },
+    {
+        "id": 6,
+        "titulo": "¿Cómo utilizar Discord?",
+        "categoria": "INNOVACIÓN Y GESTIÓN",
+        "imagen": "https://i.ytimg.com/vi/X78bFQZWIoc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCzUrNEsTKtNP_mBzeUSwXOJGXXWA",
+        "url": "https://www.youtube.com/embed/X78bFQZWIoc?si=FekIGMlqZ4tZaN-S"
+    }
+
+]
+}
+

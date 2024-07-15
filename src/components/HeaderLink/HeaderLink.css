@@ -1,0 +1,19 @@
+.link{
+    font-size: 1rem;
+    color: var(--blanco);
+    border: 1px solid var(--blanco);
+    margin: 0 10px;
+    width: 150px;
+    display: inline-block;
+    padding: .8rem 0;
+    text-align: center;
+    border-radius: 6px;  
+    font-weight: bold;
+    
+}
+
+.link:first-child{
+    color: var(--azul);
+    border: 2px solid var(--azul); 
+    box-shadow: var(--azul) 0px 2px 15px 3px;
+}
